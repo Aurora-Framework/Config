@@ -1,6 +1,6 @@
 {
    "name": "aurora-framework/config",
-   "description": "Config",
+   "description": "Config management",
    "license": "MIT",
    "authors": [
       {
