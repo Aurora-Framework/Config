@@ -2,14 +2,14 @@
 
 namespace Aurora;
 
-use Aurora\Helper\StatefulTrait;
+use Aurora\Helper\ObjectTrait;
 
 class Config
 {
 	/**
 	 * Helper trait
 	 */
-	use StatefulTrait;
+	use ObjectTrait;
 
 	/**
 	 * Constructor
