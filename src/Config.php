@@ -2,15 +2,10 @@
 
 namespace Aurora;
 
-use Aurora\Helper\ObjectTrait;
+use Aurora\Helper\Object;
 
-class Config
+class Config extends Object
 {
-	/**
-	 * Helper trait
-	 */
-	use ObjectTrait;
-
 	/**
 	 * Constructor
 	 * @param array|string $data Data to store in Config
